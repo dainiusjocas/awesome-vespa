@@ -115,6 +115,12 @@ Unofficial, but curated list of Vespa.ai resources
 * [The RAG Blueprint Overview](https://www.youtube.com/watch?v=su81gUdW1w8)
 * [Official Vespa Youtube channel](https://www.youtube.com/channel/UCVXw_f6UHff8-V9FA1LMIiw)
 
+## Playground
+[A playground for the Vespa.ai engineers to share some ideas](https://github.com/vespaai-playground). No official support for anything here.
+* [NyRAG](https://github.com/vespaai-playground/NyRAG): advanced, scalable, no-code RAG.
+* [vespatune](https://github.com/vespaai-playground/vespatune): No code solution for training tabular models.
+* [vespaembed](https://github.com/vespaai-playground/vespaembed): No code tool for finetuning embedding models.
+
 # Consulting and training
 * [SearchPlex](https://www.searchplex.net/vespa-ai-consulting)
 * Sease [consulting](https://sease.io/consulting/vespa-consulting) and [training](https://sease.io/training/vespa-training-list)
@@ -124,6 +130,7 @@ Unofficial, but curated list of Vespa.ai resources
 * [Public Slack](https://slack.vespa.ai/)
 * [Twitter](https://twitter.com/vespaengine)
 * [Vespa Github org](https://github.com/vespa-engine)
+* [GitHub Discussions](https://github.com/vespa-engine/vespa/discussions) a.k.a. the official forum.
 
 # General Search / Information Retrieval Resources
 * [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval)
