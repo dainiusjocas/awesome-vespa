@@ -64,6 +64,7 @@ Unofficial, but curated list of Vespa.ai resources
 * [Kafka Connect Vespa](https://github.com/vinted/kafka-connect-vespa)
 
 ## Read
+* [Navigator for Solr](https://solr.search-navigator.org/) -> an IDE for Solr that also works with Vespa (e.g., run HTTP requests, Python/shell code, visualize data...).
 * [LangChain](https://python.langchain.com/docs/integrations/vectorstores/vespa/)
 * [YQL parser](https://www.yql-parser.com/)
 
