@@ -11,6 +11,7 @@ Unofficial, but curated list of Vespa.ai resources
   - [Japanese](#japanese)
 - [Benchmarks](#benchmarks)
 - [Tools and integrations](#tools-and-integrations)
+  - [Clients](#clients)  
   - [Write](#write)
   - [Read](#read)
   - [Monitor](#monitor)
