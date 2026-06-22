@@ -60,6 +60,9 @@ Unofficial, but curated list of Vespa.ai resources
 
 # Tools and integrations
 
+## Clients
+* [Vespa.NET](https://github.com/outmatic/Vespa.NET)
+
 ## Write
 * [Kafka Connect Vespa](https://github.com/vinted/kafka-connect-vespa)
 
